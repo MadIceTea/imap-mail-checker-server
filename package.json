@@ -1,24 +1,24 @@
 {
-  "name": "imap-mail-check-server",
-  "version": "0.2.0",
-  "license": "MIT",
-  "author": "madicetea <opensource@madicetea.com>, 성 종천 (JongCheon Seong) <mudchobo@gmail.com>"
-  "description": "Server helper application to notify you of any new IMAP emails received, as extension-based notification from your browser.",
-  "private": true,
-  "homepage": "https://github.com/MadIceTea/imap-mail-checker-server",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/MadIceTea/imap-mail-checker-server.git",
-    "directory": "/"
-  },
-  "engines": {
-    "node": ">=14.17.3",
-    "npm": ">=7.19.1"
-  },
-  "dependencies": {
-        "imap": "0.8.19",
-        "socket.io": "4.1.2",
-        "node-rsa": "1.1.1"
-  },
-  "keywords": ["imap", "mail", "email", "notification", "extension"," server", "node", "npm"],
+	"name": "imap-mail-check-server",
+	"version": "0.2.0",
+	"license": "MIT",
+	"author": "madicetea <opensource@madicetea.com>, 성 종천 (JongCheon Seong) <mudchobo@gmail.com>",
+	"description": "Server helper application to notify you of any new IMAP emails received, as extension-based notification from your browser.",
+	"private": true,
+	"homepage": "https://github.com/MadIceTea/imap-mail-checker-server",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/MadIceTea/imap-mail-checker-server.git",
+		"directory": "/"
+	},
+	"engines": {
+		"node": ">=14.17.3",
+		"npm": ">=7.19.1"
+	},
+	"dependencies": {
+		"imap": "0.8.19",
+		"socket.io": "4.1.2",
+		"node-rsa": "1.1.1"
+	},
+	"keywords": ["imap", "mail", "email", "notification", "extension", " server", "node", "npm"]
 }
