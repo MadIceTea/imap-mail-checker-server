@@ -1,7 +1,9 @@
 # imap-mail-checker-server
 
 ## What is it
-(IMAP Mail Checker for Browser Extension written with NodeJS)
+(***The server powering*** IMAP Mail Checker for Browser Extension written with NodeJS)
+
+(**This is not the zip file to load as a developer-mode extension in your browser. See [here](https://github.com/MadIceTea/imap-mail-checker-cx) instead.**)
 
 ## History
 
