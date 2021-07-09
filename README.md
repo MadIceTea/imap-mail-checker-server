@@ -1,11 +1,25 @@
-imap-mail-checker-server
-========================
+# imap-mail-checker-server
 
-IMAP Mail Checker for NodeJS
+## What is it
+(IMAP Mail Checker for Browser Extension written with NodeJS)
 
-openssl genrsa -out rsa_1024_priv 1024
+## History
 
-openssl ras -pubout -in rsa_1024_priv -out rsa_1024_pub
+(Coming soon)
 
-chrome extension 폴더에 rsa_1024_pub파일 복사.
+## Motivation
 
+(Loading)
+
+## Roadmap
+
+(Looking at a compass, and writing plans on a chart...)
+
+## Get Started
+Steps to start the server (when the JS script is updated correctly):
+
+1) openssl genrsa -out rsa_1024_priv 1024
+
+2) openssl ras -pubout -in rsa_1024_priv -out rsa_1024_pub
+
+3) Copy the rsa_1024_pub file to the chrome extension folder.
