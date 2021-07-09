@@ -2,7 +2,7 @@
   "name": "imap-mail-check-server",
   "version": "0.2.0",
   "license": "MIT",
-  "author": "madicetea <opensource@madicetea.com>", "성 종천 (JongCheon Seong) <mudchobo@gmail.com>"
+  "author": "madicetea <opensource@madicetea.com>, 성 종천 (JongCheon Seong) <mudchobo@gmail.com>"
   "description": "Server helper application to notify you of any new IMAP emails received, as extension-based notification from your browser.",
   "private": true,
   "homepage": "https://github.com/MadIceTea/imap-mail-checker-server",
