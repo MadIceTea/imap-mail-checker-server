@@ -17,7 +17,7 @@
 	},
 	"dependencies": {
 		"imap": "0.8.19",
-		"socket.io": "4.1.2",
+		"socket.io": "4.6.2",
 		"node-rsa": "1.1.1"
 	},
 	"keywords": ["imap", "mail", "email", "notification", "extension", " server", "node", "npm"]
